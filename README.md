@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Chiara 👋
 
-<!--
-**ChiaraMenghini/ChiaraMenghini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education 🎓
+- **MSc Cybersecurity (LM-66)** at [Sapienza](https://corsidilaurea.uniroma1.it/it/course/33516)
+- **BSc Computer Science (L-31)** at [Tor Vergata](https://web.uniroma2.it/en/contenuto/computer_science)
 
-Here are some ideas to get you started:
+### Contact 📫
+- E-mail: [chiaramenghini1304@gmail.com](mailto:chiaramenghini1304@gmail.com)
+- LinkedIn: [chiara-menghini-65aa662b7](https://www.linkedin.com/in/chiara-menghini-65aa662b7/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About 👩‍💻
+Security enthusiast building skills through hands-on exercises and write-ups. <br>
+This space hosts notes, labs, and small projects.
