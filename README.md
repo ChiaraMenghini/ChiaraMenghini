@@ -9,5 +9,5 @@
 - LinkedIn: [chiara-menghini-65aa662b7](https://www.linkedin.com/in/chiara-menghini-65aa662b7/)
 
 ### About 👩‍💻
-Security enthusiast building skills through hands-on exercises and write-ups. <br>
+Improving myself bit by bit! <br>
 This space hosts notes, labs, and small projects.
